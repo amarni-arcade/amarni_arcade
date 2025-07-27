@@ -1,6 +1,4 @@
 
-import '../styles/globals.css';
-
 export default function Home() {
   return (
     <section id="shop" className="py-12 px-6 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
